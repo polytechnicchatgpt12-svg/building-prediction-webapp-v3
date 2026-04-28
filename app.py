@@ -1,14 +1,15 @@
 
 import streamlit as st
-import pandas as pd
 
 st.set_page_config(page_title="Building Project Prediction", layout="wide")
 
 st.title("🏗️ Building Project Prediction System")
 
 st.markdown("### Developed by")
-st.markdown("**Hashemi Sayed Baset**  
-**Salehy Sayed Moh Meraj**")
+st.markdown("""
+**Hashemi Sayed Baset**  
+**Salehy Sayed Moh Meraj**
+""")
 st.markdown("Supervisor: **Mikheev Pavel Yurievich**")
 st.markdown("University: **Peter the Great St. Petersburg Polytechnic University (SPbSTU)**")
 
